@@ -1,0 +1,7 @@
+= Jetbrains MPS Sandbox
+
+https://www.jetbrains.com/mps/[Jetbrains MPS] is a https://www.martinfowler.com/articles/languageWorkbench.html[language
+workbrench]. Language workbenches are used to create custom DSL and IDEs for that DSL, because tool support is crucial
+when it comes to user acceptance.
+
+This repository is my personal playground to experiment with MPS and to get the hands dirty.
