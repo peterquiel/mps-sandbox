@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,32,0" name="FluentEditor.actions.ActionAspectDescriptorImpl" />
+    </file>
+  </root>
+  <root nodeRef="r:33e34a3a-bfc0-41dc-8fb7-ef7240d444ef(FluentEditor.actions)/6394025033531912844">
+    <file name="RichTextNodeFactory.java">
+      <node id="6394025033531912844" at="14,0,15,0" concept="2" trace="LOG" />
+      <node id="6394025033531912862" at="16,91,17,111" concept="0" />
+      <node id="6394025033531982839" at="21,91,22,115" concept="0" />
+      <node id="6394025033531912845" at="16,0,19,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <node id="6394025033531982812" at="21,0,24,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="6394025033531912845" at="16,91,17,111" />
+      <scope id="6394025033531982812" at="21,91,22,115" />
+      <scope id="6394025033531912845" at="16,0,19,0">
+        <var name="enclosingNode" id="6394025033531912845" />
+        <var name="model" id="6394025033531912845" />
+        <var name="newNode" id="6394025033531912845" />
+        <var name="sampleNode" id="6394025033531912845" />
+      </scope>
+      <scope id="6394025033531982812" at="21,0,24,0">
+        <var name="enclosingNode" id="6394025033531982812" />
+        <var name="model" id="6394025033531982812" />
+        <var name="newNode" id="6394025033531982812" />
+        <var name="sampleNode" id="6394025033531982812" />
+      </scope>
+      <unit id="6394025033531912845" at="15,0,20,0" name="FluentEditor.actions.RichTextNodeFactory$NodeFactory_6394025033531912845" />
+      <unit id="6394025033531982812" at="20,0,25,0" name="FluentEditor.actions.RichTextNodeFactory$NodeFactory_6394025033531982812" />
+      <unit id="6394025033531912844" at="13,0,26,0" name="FluentEditor.actions.RichTextNodeFactory" />
+    </file>
+  </root>
+</debug-info>
+
